@@ -50,6 +50,7 @@ Sales
 * Product
 * Quantity
 * Sale Date
+* payment status
   
  Planned Technologies
 
