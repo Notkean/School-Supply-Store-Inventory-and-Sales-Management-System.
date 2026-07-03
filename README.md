@@ -8,7 +8,12 @@ Problem Statement
 
 A local school supply supplier currently tracks inventory and sales manually maoni ang problem statement
 
-
+Record types
+* Supplies/Products
+* Sales Transactions  
+* Customers
+* Users/Staff
+  
 Features
 
 * 📦 Manage Product Inventory (Create, Read, Update, Delete)
