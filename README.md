@@ -6,7 +6,7 @@ The School Supply Store Inventory and Sales Management System is a CRUD-based ap
 
 Problem Statement
 
-Many school supply stores still rely on notebooks or spreadsheets to record inventory and sales transactions. This manual process often leads to inaccurate stock counts, misplaced records, delayed sales reporting, and difficulty monitoring product availability. The proposed School Supply Store Inventory and Sales Management System provides a digital solution that allows staff to manage products, customers, suppliers, and sales efficiently while automatically updating inventory after each completed sale.
+A local school supply supplier currently tracks inventory and sales manually maoni ang problem statement
 
 
 Features
