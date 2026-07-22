@@ -6,7 +6,7 @@ The School Supply Store Inventory and Sales Management System is a CRUD-based ap
 
 Problem Statement
 
-A local school supply supplier currently tracks inventory and sales manually 
+A local school supply supplier currently tracks inventory and sales manually. 
 
 Record types
 * Supplies/Products
