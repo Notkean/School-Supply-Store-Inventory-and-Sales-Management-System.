@@ -1,0 +1,52 @@
+// GET /supplies — List all supplies
+function listSupplies(request, response) {
+  return response.status(200).json({
+    status: 200,
+    message: "listSupplies stub — returns all inventory items",
+    data: null,
+    error: null
+  });
+}
+
+// GET /supplies/:id — View one supply
+function showSupply(request, response) {
+  const supplyId = request.params.id;
+  return response.status(200).json({
+    status: 200,
+    message: "showSupply stub — returns one supply by ID",
+    data: { id: supplyId },
+    error: null
+  });
+}
+
+// POST /supplies — Add new supply
+function createSupply(request, response) {
+  return response.status(201).json({
+    status: 201,
+    message: "createSupply stub — new supply added to inventory",
+    data: null,
+    error: null
+  });
+}
+
+// PUT /supplies/:id — Update supply
+function updateSupply(request, response) {
+  const supplyId = request.params.id;
+  return response.status(200).json({
+    status: 200,
+    message: "updateSupply stub — supply details updated",
+    data: { id: supplyId },
+    error: null
+  });
+}
+
+// DELETE /supplies/:id — Remove supply
+function deleteSupply(request, response) {
+  const supplyId = request.params.id;
+  return response.status(200).json({
+    status: 200,
+    message: "deleteSupply stub — supply removed from inventory",
+    data: { id: supplyId },
+    error: null
+  });
+}
